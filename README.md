@@ -1,126 +1,201 @@
-# Hi, I'm Nathaniel Katugwa 👋
+<div align="center">
 
-Computer Science student and Python developer passionate about building practical software solutions and learning modern technologies.
+# 👋 Hi, I'm Nathaniel Katugwa
 
-I enjoy creating tools that solve real problems — from web applications to automation tools and interactive programs.
+### Software Engineer • Backend Developer • AI Engineer (in Progress)
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;AI+Engineer+in+Progress;Python+Developer;Building+Real-World+Projects;Learning+by+Building" alt="Typing SVG" />
 
-## 🚀 Current Focus
+<br>
 
-- Python Development
-- Flask Web Applications
-- Software Engineering Fundamentals
-- UI/UX for developer tools
-- Building and shipping real projects
+*"I don't just learn technologies—I build with them."*
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 About Me
 
-**Languages**
+I'm Nathaniel Katugwa, a Computer Science graduate passionate about building software that solves real-world problems.
+
+My learning philosophy is simple:
+
+> **Build. Break. Learn. Improve. Repeat.**
+
+Instead of waiting until I know everything, I challenge myself with ambitious projects that push me to learn new technologies, improve my engineering skills, and create software that delivers real value.
+
+I'm currently focused on Backend Development, Artificial Intelligence, API Engineering, and building scalable systems.
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
 - Python
-- HTML
-- CSS
-- JavaScript (basic)
+- JavaScript
+- SQL
+- HTML5
+- CSS3
 
-**Frameworks & Tools**
+## Backend
+
+- FastAPI
 - Flask
-- Bootstrap
-- SQLAlchemy
+- REST APIs
+
+## Databases
+
+- PostgreSQL
 - SQLite
-- Tkinter
+- Supabase
 
-**Developer Tools**
-- Git & GitHub
-- PyCharm
+## AI
+
+- OpenAI APIs
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Document Processing
+
+## Tools
+
+- Git
+- GitHub
+- Docker
+- Postman
 - VS Code
-- Vercel / PythonAnywhere (deployment)
+- Google AI Studio
 
 ---
 
-## 📦 Projects
+# 🌱 Currently Exploring
 
-### 🗂 FlowBoard
-A Kanban-style productivity workspace built with Flask.
-
-Features:
-- User authentication
-- Task management board (To Do / Doing / Done)
-- Pomodoro focus timer
-- Task archive/history
-- Admin dashboard with usage metrics
-- Modern SaaS-style UI
+- Advanced FastAPI
+- AI Agents
+- LangChain
+- Vector Databases
+- Docker
+- System Design
+- Authentication & Authorization
+- Cloud Deployment
 
 ---
 
-### ☕ Cafe & Wifi Finder
-A Flask web app that displays cafes with good coffee and reliable wifi using an SQLite database.
+# 🚀 Featured Projects
 
-Features:
-- View cafes and details
-- Add new cafes
-- Edit and delete cafes (admin)
-- Clean card-based UI
+## 🌦 Weather App
 
----
+A modern weather application built with Python that provides real-time weather information using weather APIs.
 
-### ❌⭕ Tic-Tac-Toe AI
-Python-based Tic-Tac-Toe game with multiple difficulty levels.
+**Highlights**
 
-Features:
-- Amateur / Intermediate / Expert AI
-- Score tracking
-- Smart blocking strategy
+- API Integration
+- Clean UI
+- Error Handling
+- Real-time Weather Data
 
 ---
 
-### ⌨ Typing Speed Test
-A Python application to test typing speed.
+## 📊 AI Financial Statement Analyzer (In Progress)
 
-Features:
-- Live WPM calculation
-- Multiple difficulty levels
-- High score tracking
-- GUI version with Tkinter
+An AI-powered application that extracts, analyzes, and summarizes financial statements.
 
----
+**Highlights**
 
-### 🖼 Image Watermarker
-Desktop application built with Python and Tkinter to add watermarks to images automatically.
+- AI-powered analysis
+- PDF document processing
+- FastAPI backend
+- Intelligent financial insights
 
 ---
 
-### 🧱 Breakout Game
-A classic arcade game built with Python using the Turtle graphics library.
+## 🤖 Retrieval-Augmented Generation (RAG) System
 
-Features:
-- Paddle and ball physics
-- Brick durability
-- Multiple levels
-- Score tracking
+Currently building a production-ready RAG web application that enables users to chat with their own documents using AI.
 
----
+**Current Focus**
 
-## 📈 What I'm Learning
-
-Currently working through a **100 Days of Python Development challenge**, building real projects and improving my problem-solving skills.
+- FastAPI
+- PostgreSQL
+- Supabase
+- Vector Search
+- LLM Integration
 
 ---
 
-## 🌍 Goals
+## 🎨 Arthemis Gallery
 
-- Become a skilled software developer
-- Build useful digital products
-- Contribute to open-source projects
-- Launch real-world applications
+A custom API-powered gallery application demonstrating API integration, dynamic content rendering, and responsive web design.
 
 ---
 
-## 📫 Connect With Me
+## ⚡ FandomXplorer
 
-GitHub: https://github.com/NhartyInnovate
+An interactive API-based web application featuring advanced search, filtering, sorting, pagination, and dynamic content presentation.
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📚 What I'm Working Towards
+
+- Building production-ready backend systems
+- Becoming an AI Engineer
+- Designing scalable APIs
+- Contributing to Open Source
+- Writing clean, maintainable code
+- Continuously learning through challenging projects
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=NhartyInnovate&show_icons=true&theme=github_dark&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=NhartyInnovate&theme=github-dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NhartyInnovate&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+# 🎯 2026 Goals
+
+- [ ] Build 20+ production-quality projects
+- [ ] Master FastAPI
+- [ ] Master AI Application Development
+- [ ] Learn Cloud Infrastructure
+- [ ] Contribute to Open Source
+- [ ] Deploy multiple production applications
+- [ ] Grow into a Backend & AI Engineer
+
+---
+
+# 🤝 Let's Connect
+
+📧 Email: your-nkatugwa@example.com
+
+💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/nathaniel-katugwa-497121258/)
+
+🌍 Portfolio: Coming Soon
+
+🐦 X (Twitter): https://x.com/yourhandle
+
+---
+
+# 💡 Developer Philosophy
+
+> "The best way to learn software engineering is to build software."
+
+Every repository on this profile represents another step in my journey toward becoming a better engineer.
+
+If you find something interesting, feel free to explore the code, open an issue, or connect with me.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+If you like any of my projects, consider giving them a star.
+
+Happy Coding! 🚀
+
+</div>
