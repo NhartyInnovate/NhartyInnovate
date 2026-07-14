@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Nathaniel Katugwa
+# Hi, I'm Nathaniel Katugwa
 
 ### Software Engineer • Backend Developer • AI Engineer (in Progress)
 
@@ -14,7 +14,7 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I'm Nathaniel Katugwa, a Computer Science graduate passionate about building software that solves real-world problems.
 
@@ -68,7 +68,7 @@ I'm currently focused on Backend Development, Artificial Intelligence, API Engin
 
 ---
 
-# 🌱 Currently Exploring
+# Currently Exploring
 
 - Advanced FastAPI
 - AI Agents
@@ -81,7 +81,7 @@ I'm currently focused on Backend Development, Artificial Intelligence, API Engin
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 🌦 Weather App
 
